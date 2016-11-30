@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AK47Pickup.js">
+    <Files>
+      <File FileName="Assets\Scripts\AK47Pickup.js" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\PickUp9mm.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandgunReload.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OpenDoor001.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCasting.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalAmmo.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AmmoPickup.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrossAnimation.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GunFire.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandGunDamage.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
